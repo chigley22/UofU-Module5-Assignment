@@ -1,3 +1,11 @@
+Deployed Url: 
+
+Upon opening this URL you will see a Work Day Scheduler. 
+The workday scheduler provides timeblocks of the workday
+The user will be able to enter in tasks of the day and see what task they should be focusing on, which tasks should be complete, and what tasks will be in the future. By using the color coding feature
+The user will also be able to click the save button to save tasks to localstorage so that upon page refresh the tasks will not disapear.
+The workday scheduler will also display the current date at the top of the schedule
+
 # UofU-Week5-Assignment
 
 
