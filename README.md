@@ -1,4 +1,4 @@
-Deployed Url: 
+Deployed Url: https://chigley22.github.io/UofU-Week5-Assignment/
 
 Upon opening this URL you will see a Work Day Scheduler. 
 The workday scheduler provides timeblocks of the workday
